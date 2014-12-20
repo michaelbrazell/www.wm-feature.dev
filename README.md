@@ -1,26 +1,18 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# [WM Feature Article](http://www.worcesterwebgroup.com) - [Worcester Web Group](http://www.worcesterwebgroup.com)
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+WM Feature Article is an article template currently in development for a future feature piece.  This content is still in development, and it is being developed by [Worcester Web Group](http://www.worcesterwebgroup.com), a tiny web development outfit in Worcester, Mass.
 
-## Getting Started
+## Stuff
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+This is built on Bootstrap using the Start Bootstrap framework
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+This is being developed by **Mike Murray**.  I am a front-end developer for a software company in Massachusetts, and owner of Worcester Web Group.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+* https://twitter.com/michaelbrazell
+* https://github.com/michaelbrazell
 
 ## Copyright and License
 
-Copyright 2014 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+Content is copyright of the authors who wrote that content.  Code is distributed freely per the GPL.  Bootstrap and Start Bootstrap are properties of their owners.
