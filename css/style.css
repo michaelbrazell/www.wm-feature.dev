@@ -142,7 +142,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/intro-bg-bw.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -157,10 +157,12 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
+    text-shadow: 0px 0px 20px #000;
 }
 
 .intro .intro-body .intro-text {
     font-size: 18px;
+    text-shadow: 0px 0px 20px #000;
 }
 
 @media(min-width:767px) {
@@ -170,7 +172,7 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 60px;
+        font-size: 84px;
     }
 
     .intro .intro-body .intro-text {
@@ -188,6 +190,7 @@ a:focus {
     font-size: 40px;
     color: #fff;
     background: 0 0;
+    text-shadow: 0px 0px 20px #000;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
@@ -256,11 +259,11 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.nothing-called-ebola-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/nothing-called-ebola-bg-bw.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -365,3 +368,6 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+/* Additive Classes */
+.first-character { float: left; color: #219ab3; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; }
