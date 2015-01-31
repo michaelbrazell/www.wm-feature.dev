@@ -259,45 +259,48 @@ a:focus {
     padding-top: 100px;
 }
 
+.headlines {
+	width: 100%;
+    padding: 250px 0;
+    color: #fff;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .headlines h2 {
 	text-shadow: 0 0 20px #000;
 	font-size: 42px;
 }
 
-.nothing-called-ebola-section {
-    width: 100%;
-    padding: 250px 0;
-    color: #fff;
+.nothing-called-ebola-section {    
     background: url(../img/nothing-called-ebola-bg-bw.jpg) no-repeat center center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+}
+
+.family-under-roof-section {
+    background: url(../img/family-under-roof.jpg) no-repeat center center scroll;
 }
 
 .pain-felt-in-worcester-section {
-	width: 100%;
-    padding: 250px 0;
-    color: #fff;
     background: url(../img/sacra-freeman-talk-bg-bw.jpg) no-repeat center center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 .sacra-back-in-liberia-section {
-	width: 100%;
-    padding: 250px 0;
-    color: #fff;
     background: url(../img/sacra-freeman-talk-bg-bw.jpg) no-repeat center center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+}
+
+.umass-in-west-africa-section {
+    background: url(../img/umass-in-west-africa-bg-bw.jpg) no-repeat center center scroll;
+}
+
+.danger-zones-section {
+    background: url(../img/danger-zones-bg-bw.jpg) no-repeat center center scroll;
+}
+
+.what-comes-next-section {
+    background: url(../img/what-comes-next-bg.jpg) no-repeat center center scroll;
 }
 
 #map {
@@ -308,7 +311,7 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        padding-top: 90px;
     }
 
     .download-section {
