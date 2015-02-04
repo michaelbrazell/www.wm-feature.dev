@@ -259,28 +259,17 @@ a:focus {
     padding-top: 100px;
 }
 
-.headlines {
-	width: 100%;
-    padding: 250px 0;
-    color: #fff;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
 .headlines h2 {
 	text-shadow: 0 0 20px #000;
 	font-size: 42px;
 }
 
 .nothing-called-ebola-section {    
-    background: url(../img/nothing-called-ebola-bg-bw.jpg) no-repeat center center scroll;
+    background: url(../img/nothing-called-ebola-bg-bw.jpg) no-repeat center center;
 }
 
 .family-under-roof-section {
-    background: url(../img/family-under-roof.jpg) no-repeat center center scroll;
+    background: url(../img/family-under-roof.jpg) no-repeat center center;
 }
 
 .pain-felt-in-worcester-section {
@@ -301,6 +290,42 @@ a:focus {
 
 .what-comes-next-section {
     background: url(../img/what-comes-next-bg.jpg) no-repeat center center scroll;
+}
+
+.headlines {
+	width: 100%;
+    padding: 250px 0;
+    color: #fff;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.ebola-sign-video {
+	padding: 10px 0;
+}
+
+.ebola-is-real {
+	min-height: 100%;
+	min-width: 100%;
+	background: url(../img/ebola-sign-video-bg.jpg) no-repeat;
+	background-size: cover;
+}
+
+.audio-clip {
+	font-size: 14px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+audio {
+	width: 100%;
+}
+
+.photos img {
+	margin-bottom: 20px;
 }
 
 #map {
