@@ -314,6 +314,10 @@ a:focus {
 	background-size: cover;
 }
 
+@media(max-width:767px) {
+	.ebola-sign-video { display: none } 
+}
+
 .audio-clip {
 	font-size: 14px;
 	margin-top: 10px;
