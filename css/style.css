@@ -320,6 +320,13 @@ a:focus {
 	text-align: center;
 }
 
+.image-caption {
+	font-size: 13px;
+	line-height: 13px;
+	margin-top: 10px;
+	text-align: center;
+}
+
 audio {
 	width: 100%;
 }
